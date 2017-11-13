@@ -1,0 +1,22 @@
+{
+  "name": "ha",
+  "version": "1.0.0",
+  "description": "An example of node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironboy/example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironboy/example/issues"
+  },
+  "homepage": "https://github.com/ironboy/example#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
